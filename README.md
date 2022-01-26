@@ -3,7 +3,7 @@
 * In this project Django framework is used <br />
 * In this project we maked a base of clone of stackoverflow ofcourse it is not exact to stackoverflow but I created a base of stackoverflow because in this we can access old questions and their answers which is previously posted and also we can ask a new question and after that that new question is added to old question
 ## Home page 
-* type :- /home then You can get home page of website <br />
+* type :- /home in url then You can get home page of website <br />
 * In this page thare are 2 options are available i.e. Questions and about 
 ### Questions 
 * In this page there are links of old questions are available. You can get answers of that questions after tapping on the link <br />
