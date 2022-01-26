@@ -1,6 +1,6 @@
 # Clone-of-Stackoverflow
 ## Introduction
-In this project Django framework is used__ 
+In this project Django framework is used <br />
 In this project base of clone of stackoverflow ofcourse it is not exact to stackoverflow but I created a base of stackoverflow because in this we can access old questions and their answers which is previously posted and also we can ask a new question and after that that new question is added to old question
 ## Home page 
 type :- /home then You can get home page of website 
