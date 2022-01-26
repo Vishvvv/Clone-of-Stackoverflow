@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Forms </title>
+    </head>
+    <body>
+        {% for question in question_no %}
+        <h3>Question :-</h3><br> <a href = "old_question" > {{question.question}} </a> <br>
+         {% comment %} <h3> Answer:- </h3> {{question.answer}}  <br> {% endcomment %}
+        {% endfor %}  
+        <p> You can ask new question here </p>
+        <a href="new_question" > here </a>
+    </body>
+</html>
